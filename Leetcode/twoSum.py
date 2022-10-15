@@ -1,4 +1,4 @@
-// 1.两数之和 遍历方法解决 时间复杂度较高
+# 1.两数之和 遍历方法解决 时间复杂度较高
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         Output = [] 
